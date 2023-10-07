@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    font-family: Helvetica;
+}
+
+#main-title{
+    font-size: 45px;
+    color: rgb(254, 202, 46);
+}
+
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
