@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    font-family: Helvetica;
+}
+
+#main-title{
+    font-size: 45px;
+    color: rgb(254, 202, 46);
+}
+
+ul{
+    list-style: none;
+}
+
+.imgs{
+    width: 300px;
+    height: auto;
+}
+
+.ordered-list{
+    text-align: left;
+}
